@@ -1,0 +1,38 @@
+Grundbewegungen
+[ ] Idle – Stehen, Atmen, kleine Bewegungen
+[ ] Idle_Variant – Alternative Idle-Pose
+[ ] Walk – Normales Gehen
+[ ] Run – Schnelles Laufen
+[ ] Attack_1 – Normaler Autoattack
+[ ] Attack_2 – Alternative Angriffsbewegung
+[ ] Hit_Reaction – Trefferreaktion
+[ ] Death – Sterbeanimation
+[ ] Spawn – Erscheinen am Spawnpunkt
+[ ] Recall – Eigene Heartseeker-Rückrufanimation
+
+W – Auf das Buch springen
+[ ] W_Attach_Start – Abstoßen vom Boden
+[ ] W_Attach_Travel – Sprung zum Verbündeten / Buch
+[ ] W_Attach_Land – Auf dem Buch landen und hinsetzen
+[ ] W_Attached_Idle – Auf dem Buch sitzen, Beine hängen frei
+[ ] W_Switch_Ally – Wechsel zu einem anderen Verbündeten
+[ ] W_Detach_Jump – Vom Buch abspringen
+[ ] W_Detach_Land – Auf dem Boden landen und aufstehen
+
+Fähigkeiten – Q, E und R
+[ ] Q_Free – Projektil vom Boden aus wirken
+[ ] Q_Attached – Projektil im Sitzen wirken
+[ ] E_Free – Sich selbst einen Schild geben
+[ ] E_Attached – Verbündeten beim Sitzen abschirmen
+[ ] R_Free_Start – Ultimate am Boden beginnen
+[ ] R_Free_Loop – Wellen während der Kanalisierung
+[ ] R_Free_End – Ultimate beenden
+[ ] R_Attached_Start – Ultimate im Sitzen beginnen
+[ ] R_Attached_Loop – Wellen im Sitzen kanalisieren
+[ ] R_Attached_End – Ultimate im Sitzen beenden
+
+Emotes
+[ ] Joke – Scherz / spielerische Bewegung
+[ ] Taunt – Provokationsanimation
+[ ] Dance – Tanzen
+[ ] Laugh – Lachanimation

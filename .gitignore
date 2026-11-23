@@ -64,3 +64,15 @@ Backup_*
 # Python bytecode and cache files
 __pycache__/
 *.py[cod]
+
+# Local game extracts and downloaded tools
+/wad/
+/software/
+/*.wad.client
+*.blend1
+*.blend2
+.env
+.env.*
+# Project archives are intentional versioned assets
+!/Yuumi/yuumi/Yuumi_v1.0.x.zip
+!/test/*.zip

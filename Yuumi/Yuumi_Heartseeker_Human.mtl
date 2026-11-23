@@ -1,0 +1,14 @@
+# Blender 5.3.0 MTL File: 'Yuumi_Heartseeker_Human.blend'
+# www.blender.org
+
+newmtl tripo_mat_aa95073f.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/tripo_node_53779144-45cf-414c-b608-0a29054ee0ab_BaseColor.jpg
+map_Ns C:/pink_anime_girl_3d_model_roughness.jpg
+map_refl C:/pink_anime_girl_3d_model_metallic.jpg
+map_Bump -bm 1.000000 C:/tripo_node_53779144-45cf-414c-b608-0a29054ee0ab_Normal_Bake.jpg

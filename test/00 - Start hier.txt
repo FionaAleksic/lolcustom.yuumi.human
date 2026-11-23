@@ -1,0 +1,14 @@
+Heartseeker Yuumi 1.2 für League of Legends
+
+Skin verwenden (Windows)
+1. „Heartseeker Human Yuumi.fantome“ herunterladen. Die Datei ist das fertige Skin-Paket.
+2. LTK Manager öffnen und die Datei mit Strg+I importieren. Download: https://github.com/LeagueToolkit/ltk-manager/releases/latest
+3. Den Skin im Manager einschalten und „Start“ drücken. League starten, im Übungsmodus Yuumi mit dem Standard-Skin wählen.
+
+Skin ändern und neu bauen
+„Heartseeker Yuumi.blend“ in Blender 5.1 öffnen, Änderungen speichern und „Neu bauen.zip“ entpacken. In Blender unter Scripting → Öffnen die entpackte Datei „Skin_bauen.py“ wählen und ▶ drücken. Das neue .fantome liegt im Ordner „Ausgabe“. Der erste Build lädt die Exportwerkzeuge und braucht Internetzugang.
+
+Vorschau
+„Animationskontrolle.mp4“ zeigt alle 31 Animationen. „Laufvergleich.mp4“ zeigt den überarbeiteten Lauf in Zeitlupe.
+
+Stand: Für Patch 16.23 gebaut und offline geprüft. Der Test im laufenden Spiel steht aus.
