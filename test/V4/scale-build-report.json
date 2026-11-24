@@ -1,0 +1,410 @@
+{
+  "package": "Heartseeker Human Yuumi V4.3 All Skins.fantome",
+  "source": "Heartseeker Human Yuumi V4.2 All Skins.fantome",
+  "mod_manager": "Celestial",
+  "version": "4.3.0",
+  "skin_count": 79,
+  "skin_scale_factor": 2,
+  "skins": [
+    {
+      "skin_id": 0,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 1,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 2,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 3,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 4,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 5,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 6,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 7,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 8,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 9,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 10,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 11,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 12,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 13,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 14,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 15,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 16,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 17,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 18,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 19,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 20,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 21,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 22,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 23,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 24,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 25,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 26,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 27,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 28,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 29,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 30,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 31,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 32,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 33,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 34,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 35,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 36,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 37,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 38,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 39,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 40,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 41,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 42,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 43,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 44,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 45,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 46,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 47,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 48,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 49,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 50,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 51,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 52,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 53,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 54,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 55,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 56,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 57,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 58,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 59,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 60,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 61,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 62,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 63,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 64,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 65,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 66,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 67,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 68,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 69,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 70,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 71,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 72,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 73,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 74,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 75,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 76,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 77,
+      "previous": 1.0,
+      "new": 2.0
+    },
+    {
+      "skin_id": 78,
+      "previous": 1.0,
+      "new": 2.0
+    }
+  ],
+  "wad_entries": 219,
+  "changed_skin_bins": 79,
+  "unchanged_wad_entries": 140,
+  "sha256": "bcc5784250c109c15dffaebca3d9b1b0d9cfd6033717565fe683788495990f13",
+  "test": "Offline validation passed; actual in-game appearance and particle/healthbar alignment need testing."
+}
