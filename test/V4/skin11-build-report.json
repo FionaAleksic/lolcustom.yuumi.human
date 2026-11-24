@@ -1,0 +1,13 @@
+{
+  "package": "Heartseeker Human Yuumi V4.1 Skin11.fantome",
+  "skin_id": 11,
+  "skin_entry": "0x952c0a62",
+  "animation_graph": "0x5f20e731",
+  "loading_path": "assets/characters/yuumi/skins/skin11/yuumiloadscreen_11.tex",
+  "wad_entries": 121,
+  "sha256": "62911d723c2d8189470309dd1f15febba4c7c915bb3164ec01299172ef5da9c2",
+  "extra_clip_aliases": [
+    "0x7778c024"
+  ],
+  "test": "Offline validated; in-game behavior and effects not tested"
+}
