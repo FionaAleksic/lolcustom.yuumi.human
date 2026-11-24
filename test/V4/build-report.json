@@ -1,0 +1,199 @@
+{
+  "package": "Heartseeker Human Yuumi V4.fantome",
+  "sha256": "1a95de100426ad75075251371446ed57c09845c41eaecde43ef64c16de9d0a1a",
+  "package_bytes": 13624929,
+  "wad_entries_before": 120,
+  "wad_entries_after": 121,
+  "animations_replaced": 20,
+  "other_entries_unchanged": 100,
+  "loading_screen": {
+    "path": "assets/characters/yuumi/skins/base/yuumiloadscreen.tex",
+    "hash": "0x779b779e54c7c512",
+    "width": 308,
+    "height": 560
+  },
+  "skeleton_bones": 95,
+  "clips": [
+    {
+      "game_clip": "yuumi_homeguard01",
+      "action": "Run",
+      "frames": 109,
+      "fps": 30.0,
+      "loops": 4,
+      "transition": false,
+      "size": 102654
+    },
+    {
+      "game_clip": "yuumi_homeguard01_in",
+      "action": "Run",
+      "frames": 41,
+      "fps": 30.0,
+      "loops": 2,
+      "transition": false,
+      "size": 54492
+    },
+    {
+      "game_clip": "yuumi_homeguard01_out",
+      "action": "Run",
+      "frames": 71,
+      "fps": 30.0,
+      "loops": 3,
+      "transition": false,
+      "size": 135246
+    },
+    {
+      "game_clip": "yuumi_idle01",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle01_torun01",
+      "action": "Run",
+      "frames": 31,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": true,
+      "size": 68616
+    },
+    {
+      "game_clip": "yuumi_idle01_var01",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle01_var02",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle01_var03",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle01_var04",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle01_var05",
+      "action": "Idle",
+      "frames": 141,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 252030
+    },
+    {
+      "game_clip": "yuumi_idle02",
+      "action": "Idle",
+      "frames": 121,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 216570
+    },
+    {
+      "game_clip": "yuumi_idle02_var01",
+      "action": "Idle",
+      "frames": 121,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 216570
+    },
+    {
+      "game_clip": "yuumi_idle02_var02",
+      "action": "Idle",
+      "frames": 121,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 216570
+    },
+    {
+      "game_clip": "yuumi_idle02_var03",
+      "action": "Idle",
+      "frames": 121,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": false,
+      "size": 216570
+    },
+    {
+      "game_clip": "yuumi_run01",
+      "action": "Run",
+      "frames": 101,
+      "fps": 30.0,
+      "loops": 4,
+      "transition": false,
+      "size": 98112
+    },
+    {
+      "game_clip": "yuumi_run01_toidle01",
+      "action": "Run",
+      "frames": 31,
+      "fps": 30.0,
+      "loops": 1,
+      "transition": true,
+      "size": 68670
+    },
+    {
+      "game_clip": "yuumi_run01_var01",
+      "action": "Run",
+      "frames": 101,
+      "fps": 30.0,
+      "loops": 4,
+      "transition": false,
+      "size": 98112
+    },
+    {
+      "game_clip": "yuumi_run01_var02",
+      "action": "Run",
+      "frames": 201,
+      "fps": 30.0,
+      "loops": 8,
+      "transition": false,
+      "size": 155868
+    },
+    {
+      "game_clip": "yuumi_run01_var03",
+      "action": "Run",
+      "frames": 101,
+      "fps": 30.0,
+      "loops": 4,
+      "transition": false,
+      "size": 98112
+    },
+    {
+      "game_clip": "yuumi_run_slow01",
+      "action": "Walk",
+      "frames": 101,
+      "fps": 30.0,
+      "loops": 3,
+      "transition": false,
+      "size": 185418
+    }
+  ],
+  "game_test": "Not performed; offline format and content validation passed"
+}
